@@ -1,0 +1,31 @@
+D:\Projects\DEs\DEs\bin\Debug\DEs.exe.config
+D:\Projects\DEs\DEs\bin\Debug\DEs.exe
+D:\Projects\DEs\DEs\bin\Debug\DEs.pdb
+D:\Projects\DEs\DEs\obj\Debug\DEs.csproj.AssemblyReference.cache
+D:\Projects\DEs\DEs\obj\Debug\DEs.csproj.SuggestedBindingRedirects.cache
+D:\Projects\DEs\DEs\obj\Debug\DEs.Form1.resources
+D:\Projects\DEs\DEs\obj\Debug\DEs.Properties.Resources.resources
+D:\Projects\DEs\DEs\obj\Debug\DEs.csproj.GenerateResource.cache
+D:\Projects\DEs\DEs\obj\Debug\DEs.csproj.CoreCompileInputs.cache
+D:\Projects\DEs\DEs\obj\Debug\DEs.exe
+D:\Projects\DEs\DEs\obj\Debug\DEs.pdb
+C:\Users\Andrew Homkin\source\repos\DES\DEs\bin\Debug\DEs.exe.config
+C:\Users\Andrew Homkin\source\repos\DES\DEs\bin\Debug\DEs.exe
+C:\Users\Andrew Homkin\source\repos\DES\DEs\bin\Debug\DEs.pdb
+C:\Users\Andrew Homkin\source\repos\DES\DEs\obj\Debug\DEs.csproj.AssemblyReference.cache
+C:\Users\Andrew Homkin\source\repos\DES\DEs\obj\Debug\DEs.Form1.resources
+C:\Users\Andrew Homkin\source\repos\DES\DEs\obj\Debug\DEs.Properties.Resources.resources
+C:\Users\Andrew Homkin\source\repos\DES\DEs\obj\Debug\DEs.csproj.GenerateResource.cache
+C:\Users\Andrew Homkin\source\repos\DES\DEs\obj\Debug\DEs.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Homkin\source\repos\DES\DEs\obj\Debug\DEs.exe
+C:\Users\Andrew Homkin\source\repos\DES\DEs\obj\Debug\DEs.pdb
+\\mcb.local\RoamingProfiles$\StudentsData\1227154\Desktop\DES\DEs\bin\Debug\DEs.exe.config
+\\mcb.local\RoamingProfiles$\StudentsData\1227154\Desktop\DES\DEs\bin\Debug\DEs.exe
+\\mcb.local\RoamingProfiles$\StudentsData\1227154\Desktop\DES\DEs\bin\Debug\DEs.pdb
+\\mcb.local\RoamingProfiles$\StudentsData\1227154\Desktop\DES\DEs\obj\Debug\DEs.csproj.AssemblyReference.cache
+\\mcb.local\RoamingProfiles$\StudentsData\1227154\Desktop\DES\DEs\obj\Debug\DEs.Form1.resources
+\\mcb.local\RoamingProfiles$\StudentsData\1227154\Desktop\DES\DEs\obj\Debug\DEs.Properties.Resources.resources
+\\mcb.local\RoamingProfiles$\StudentsData\1227154\Desktop\DES\DEs\obj\Debug\DEs.csproj.GenerateResource.cache
+\\mcb.local\RoamingProfiles$\StudentsData\1227154\Desktop\DES\DEs\obj\Debug\DEs.csproj.CoreCompileInputs.cache
+\\mcb.local\RoamingProfiles$\StudentsData\1227154\Desktop\DES\DEs\obj\Debug\DEs.exe
+\\mcb.local\RoamingProfiles$\StudentsData\1227154\Desktop\DES\DEs\obj\Debug\DEs.pdb
